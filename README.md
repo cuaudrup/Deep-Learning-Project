@@ -6,3 +6,5 @@ The first strategy involves the use of pre-trained networks on the ImageNet data
 
 ### **Strategy 2: Training from Scratch**
 The second strategy is to design, train, and optimize a neural network from scratch. In this case, decisions regarding the selection of features, layers, and hyperparameters are empirically justified. Extensive experimentation with various optimization techniques (weight regularization, dropout, batch normalization, data augmentation, etc.) is also performed.
+
+![Deep Learning Background](neuronal_network.jpg)
