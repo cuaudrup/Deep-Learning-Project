@@ -10,4 +10,4 @@ The second strategy is to design, train, and optimize a neural network from scra
 You can follow the entire project in the following notebook:
 **[Deep Learning Notebbok](Deep_Learning_Notebook.ipynb)**
 
-![Deep Learning Background](neuronal_network.jpg)
+![Deep Learning Background](neural_network.jpg)
